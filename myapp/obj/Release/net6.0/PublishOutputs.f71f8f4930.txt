@@ -1,0 +1,11 @@
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\myapp.exe
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\myapp.dll
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\myapp.deps.json
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\myapp.runtimeconfig.json
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\myapp.pdb
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adminjon\source\repos\myapp\myapp\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
